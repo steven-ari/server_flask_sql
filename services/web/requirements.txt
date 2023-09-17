@@ -1,0 +1,16 @@
+debugpy==1.6.7
+Flask==2.2.5
+Flask_JWT_Extended==4.4.4
+flask_sqlalchemy==3.0.5
+Flask-Migrate==4.0.4
+numpy==1.24.3
+opencv_python==4.7.0.72
+pdf2image==1.16.3
+pdfminer.six==20221105
+Pillow==9.5.0
+psycopg2-binary==2.9.6
+pypdf==3.12.1
+pytesseract==0.3.10
+SQLAlchemy==2.0.13
+Werkzeug==2.2.3
+gunicorn==20.1.0

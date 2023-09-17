@@ -1,0 +1,14 @@
+.idea
+.vscode
+venv
+.history
+.DS_Store
+.env*
+
+__pycache__/ 
+
+instance/*
+assets/*
+
+**/logs/**/*.log
+**/logs/**/*.log.*
