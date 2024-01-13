@@ -1,4 +1,4 @@
-# Perga
+# Document Database with API, authentication, DNS, Postgres, Docker and all around it
 Digital Assistant for Document Management
 ## Installation
 
